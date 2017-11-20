@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo tranquilpeak theme</title>
+    <link>https://amazingo.github.io/learn/</link>
+    <description>Recent content on Hugo tranquilpeak theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Nov 2017 22:44:57 +0800</lastBuildDate>
+    
+	<atom:link href="https://amazingo.github.io/learn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://amazingo.github.io/learn/2017/11/first/</link>
+      <pubDate>Mon, 20 Nov 2017 22:44:57 +0800</pubDate>
+      
+      <guid>https://amazingo.github.io/learn/2017/11/first/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://amazingo.github.io/learn/about/</link>
+      <pubDate>Mon, 20 Nov 2017 22:44:40 +0800</pubDate>
+      
+      <guid>https://amazingo.github.io/learn/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
